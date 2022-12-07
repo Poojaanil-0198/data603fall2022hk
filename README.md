@@ -1,7 +1,5 @@
-## Big Data Final Project :  
-<h1 align=center>
-  ASSOCIATION ANALYSIS BETWEEN VARIOUS PRODUCTS IN THE INSTACART DATA USING SPARK </h1>
-  
+## Data 603 - Platforms for Big Data Analysis
+## Market Basket Analysis 
 ## Introduction 
 Supermarkets all over the world are utilizing data mining techniques to analyze customer purchasing behavior in an effort to increase business and simultaneously satisfy customer needs. One such software is identifying the products that customers frequently purchase together and analyzing 'if-then' trends to know which products to suggest to customers if they purchase A. This aids them in positioning the appropriate goods in the appropriate aisle, aiding customers in remembering their needs. This shortens the shopping process while also assisting clients in stocking their homes and freezers in accordance with their demands.
 ## Data Source 
